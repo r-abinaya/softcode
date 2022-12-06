@@ -1,2 +1,1 @@
-# softcode
-its a code by abinaya
+print("Hello World")
